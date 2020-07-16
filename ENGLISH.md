@@ -242,15 +242,21 @@ As a result, all the contributors list of these projects are absolutely public a
 
 For example:
 
-- Official list of MaNGOS contributors: https://github.com/cmangos/mangos-wotlk/blob/master/AUTHORS.md
+- Official list of cMaNGOS contributors: https://github.com/cmangos/mangos-wotlk/blob/master/AUTHORS.md
 - Official list of TrinityCore contributors https://github.com/TrinityCore/TrinityCore/blob/3.3.5/AUTHORS
 - Official list of AzerothCore contributors https://github.com/AzerothCore/azerothcore-wotlk/graphs/contributors
+- Official list of MaNGOS contributors:  https://github.com/mangos/mangos/graphs/contributors (Historic List)
+                            MangosZero:  https://github.com/mangoszero/server/graphs/contributors   
+                            MangosOne:   https://github.com/mangoszero/server/graphs/contributors   
+                            MangosTwo:   https://github.com/mangoszero/server/graphs/contributors   
+                            MangosThree: https://github.com/mangoszero/server/graphs/contributors   
+                            MangosFour:  https://github.com/mangoszero/server/graphs/contributors   
 
 PS: you can find the author of this article in all these lists
 
 ### Official commits list
 
-Any open source project (generally hosted on GitHub) has the list of commits realised by the different develoers. For each commit, both the author and the date are there.
+Any open source project (generally hosted on GitHub) has the list of commits realised by the different developers. For each commit, both the author and the date are there.
 
 It is very easy to verify this information, just open the official repository of any emulator. Google for example "TrinityCore github" or "AzerothCore github" and just have a look.
 
