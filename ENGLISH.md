@@ -245,12 +245,12 @@ For example:
 - Official list of cMaNGOS contributors: https://github.com/cmangos/mangos-wotlk/blob/master/AUTHORS.md
 - Official list of TrinityCore contributors https://github.com/TrinityCore/TrinityCore/blob/3.3.5/AUTHORS
 - Official list of AzerothCore contributors https://github.com/AzerothCore/azerothcore-wotlk/graphs/contributors
-- Official list of MaNGOS contributors:  https://github.com/mangos/mangos/graphs/contributors (Historic List)
-                            MangosZero:  https://github.com/mangoszero/server/graphs/contributors   
-                            MangosOne:   https://github.com/mangoszero/server/graphs/contributors   
-                            MangosTwo:   https://github.com/mangoszero/server/graphs/contributors   
-                            MangosThree: https://github.com/mangoszero/server/graphs/contributors   
-                            MangosFour:  https://github.com/mangoszero/server/graphs/contributors   
+- Official list of MaNGOS contributors  https://github.com/mangos/mangos/graphs/contributors (Historic List)
+-                          MangosZero:  https://github.com/mangoszero/server/graphs/contributors   
+-                          MangosOne:   https://github.com/mangoszero/server/graphs/contributors   
+-                          MangosTwo:   https://github.com/mangoszero/server/graphs/contributors   
+-                          MangosThree: https://github.com/mangoszero/server/graphs/contributors   
+-                          MangosFour:  https://github.com/mangoszero/server/graphs/contributors   
 
 PS: you can find the author of this article in all these lists
 
