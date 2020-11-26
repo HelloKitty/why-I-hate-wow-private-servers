@@ -152,12 +152,9 @@ As a result, the players on both servers are less happy than in the previous sce
 
 Actually, the MaNGOS/TrinityCore code (and their derivated projects) is released under the [GNU GPL license](https://en.wikipedia.org/wiki/GNU_General_Public_License).
 
-In simple words, this license says the following: use the code to do whatever you want, without paying anything, as long as any modification to the original code is also released under the same license.
-Basically, the license of these projects requires those who use them to publish any changes to the public.
+In simple words, this license says the following: use the code to do whatever you want, without paying anything, as long as any modification to the original code is also released under the same license if the application is distributed.
 
-Of course, most private servers use this license as **toilet paper**. Otherwise, there should be no private server that is "better fixed" than others.
-
-![Toilet-paper](https://raw.githubusercontent.com/FrancescoBorzi/why-I-hate-wow-private-servers/master/img/toilet-paper.jpg)
+Basically, the license of these projects do not require those who use them to publish any changes to the public. If these major projects were licensed under AGPL like AzerothCore then private servers who forked them would have been legally required to publish the changes they made.
 
 ## The lies about the private servers
 
